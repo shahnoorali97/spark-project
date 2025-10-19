@@ -1,0 +1,15 @@
+{"product_id":"P001","category":"Electronics","sales_amount":1500.0,"quantity":2,"date":"2024-01-01"}
+{"product_id":"P002","category":"Electronics","sales_amount":800.0,"quantity":1,"date":"2024-01-02"}
+{"product_id":"P003","category":"Clothing","sales_amount":1200.0,"quantity":3,"date":"2024-01-03"}
+{"product_id":"P004","category":"Clothing","sales_amount":500.0,"quantity":1,"date":"2024-01-04"}
+{"product_id":"P005","category":"Electronics","sales_amount":2000.0,"quantity":1,"date":"2024-01-05"}
+{"product_id":"P006","category":"Books","sales_amount":300.0,"quantity":5,"date":"2024-01-06"}
+{"product_id":"P007","category":"Electronics","sales_amount":750.0,"quantity":2,"date":"2024-01-07"}
+{"product_id":"P008","category":"Clothing","sales_amount":1800.0,"quantity":4,"date":"2024-01-08"}
+{"product_id":"P009","category":"Books","sales_amount":450.0,"quantity":3,"date":"2024-01-09"}
+{"product_id":"P010","category":"Electronics","sales_amount":1100.0,"quantity":1,"date":"2024-01-10"}
+{"product_id":"P011","category":"Clothing","sales_amount":650.0,"quantity":2,"date":"2024-01-11"}
+{"product_id":"P012","category":"Books","sales_amount":200.0,"quantity":4,"date":"2024-01-12"}
+{"product_id":"P013","category":"Electronics","sales_amount":2500.0,"quantity":1,"date":"2024-01-13"}
+{"product_id":"P014","category":"Clothing","sales_amount":900.0,"quantity":3,"date":"2024-01-14"}
+{"product_id":"P015","category":"Books","sales_amount":350.0,"quantity":2,"date":"2024-01-15"}
