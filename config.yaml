@@ -1,0 +1,35 @@
+# Spark Project Configuration
+app:
+  name: "SalesDataProcessor"
+  version: "2.0.0"
+  description: "Advanced Sales Data Analytics with Spark"
+
+spark:
+  app_name: "SalesDataProcessor"
+  master: "local[*]"
+  log_level: "WARN"
+  config:
+    "spark.sql.adaptive.enabled": "true"
+    "spark.sql.adaptive.coalescePartitions.enabled": "true"
+
+data:
+  input_path: "data/sales_data.csv"
+  output_path: "output/"
+  formats: ["csv", "json", "parquet"]
+  
+analytics:
+  high_value_threshold: 1000.0
+  categories: ["Electronics", "Clothing", "Books"]
+  date_format: "%Y-%m-%d"
+  
+visualization:
+  enabled: true
+  output_dir: "plots/"
+  formats: ["png", "pdf"]
+  style: "seaborn"
+  figure_size: [12, 8]
+  
+logging:
+  level: "INFO"
+  file: "logs/spark_app.log"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
