@@ -1,0 +1,15 @@
+2025-10-19 15:30:05,802 - __main__ - ERROR - Error during analysis: 'seaborn' is not a valid package style, path of style file, URL of style file, or library style name (library styles are listed in `style.available`)
+2025-10-19 15:30:06,081 - __main__ - INFO - Spark session stopped
+2025-10-19 15:30:06,082 - py4j.clientserver - INFO - Closing down clientserver connection
+2025-10-19 15:30:17,200 - __main__ - INFO - Loading data from data/sales_data.csv
+2025-10-19 15:30:18,573 - __main__ - INFO - Running comprehensive analysis...
+2025-10-19 15:30:19,982 - __main__ - INFO - Spark session stopped
+2025-10-19 15:30:19,983 - py4j.clientserver - INFO - Closing down clientserver connection
+2025-10-19 15:30:26,696 - __main__ - INFO - Loading data from data/sales_data.csv
+2025-10-19 15:30:27,982 - __main__ - INFO - Generating visualizations...
+2025-10-19 15:30:52,688 - __main__ - INFO - Spark session stopped
+2025-10-19 15:30:52,689 - py4j.clientserver - INFO - Closing down clientserver connection
+2025-10-19 15:31:02,372 - __main__ - INFO - Loading data from data/sales_data.csv
+2025-10-19 15:31:03,711 - __main__ - INFO - Exporting data as JSON...
+2025-10-19 15:31:04,135 - __main__ - INFO - Spark session stopped
+2025-10-19 15:31:04,135 - py4j.clientserver - INFO - Closing down clientserver connection
